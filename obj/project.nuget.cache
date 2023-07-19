@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "5SPMs9qsAtJejmyDyrBkGxYSnsGzc8zQLeNOiYGGwPY/yyEqIWX0sjqqe6jrwNDrmw2IuM5ymKIJpByVPkpWmw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\luka0\\Documents\\RayCasterEngine\\RaycasterEngine\\RaycasterEngine.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\luka0\\.nuget\\packages\\csfml\\2.5.0\\csfml.2.5.0.nupkg.sha512",
+    "C:\\Users\\luka0\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\luka0\\.nuget\\packages\\sfml.audio\\2.5.0\\sfml.audio.2.5.0.nupkg.sha512",
+    "C:\\Users\\luka0\\.nuget\\packages\\sfml.graphics\\2.5.0\\sfml.graphics.2.5.0.nupkg.sha512",
+    "C:\\Users\\luka0\\.nuget\\packages\\sfml.net\\2.5.0\\sfml.net.2.5.0.nupkg.sha512",
+    "C:\\Users\\luka0\\.nuget\\packages\\sfml.system\\2.5.0\\sfml.system.2.5.0.nupkg.sha512",
+    "C:\\Users\\luka0\\.nuget\\packages\\sfml.window\\2.5.0\\sfml.window.2.5.0.nupkg.sha512",
+    "C:\\Users\\luka0\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
